@@ -1,26 +1,32 @@
 # Programming Practice Problems
 
-## Problem 1: Print Name
-Write a program to prompt the user to enter their name and print it on the screen.
+## Problem 1
+    Write a program to print your name on screen.
 
-## Problem 2: Hire Decision
-Create a program to inquire about the user's age, driver's license status, and recommendation status. 
-Print "Hired" if the age is greater than 21 and has a driver's license, or if there's a recommendation. Otherwise, print "Rejected."
+## Problem 2
+    Write a program to ask the use to enter his/her name and print it on screen.
 
-## Problem 3: Print Half
-Design a program to ask the user to input a number and print "Half of <Number> is <Result>."
+## Problem 3
+  Write a program to ask the user to enter a number, then Print “ODD” if its odd, Or “Even” if its even.
 
-## Problem 4: Pass or Fail
-Develop a program to ask the user for their mark and print "PASS" if the mark is greater than or equal to 50; otherwise, print "Fail."
+## Problem 4
+Write a program to ask the user to enter his/her:
+• Age
+• Driver license
+  Then Print “Hired” if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected
 
-## Problem 5: Print Full Name
-Implement a program to prompt the user for their first name and last name. Print the full name on the screen.
+## Problem 5
+Write a program to ask the user to enter his/her: • Age • Driver license • Has Recommendation!
+  Then Print “Hired” if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected” Or Hire him\her without conditions!
 
-## Problem 6: Enhanced Print
-Enhance the "Print Full Name" program to provide an improved output using a greeting.
+## Problem 6
+Write a program to ask the user to enter:  • First Name  • Last Name
+  Then Print Full Name on screen
 
-## Problem 7: Enhanced Half Program
-Enhance the "Print Half" program to deliver an improved message.
+## Problem 7
+Write a program to ask the user to enter: • Number
+  Then Print the “Half of the <Number> is <???>”.
 
-## Problem 8: Three-Condition Hire Decision
-Modify the "Hire Decision" program to include an additional condition. If the user has a recommendation or meets the previous conditions, they are hired; otherwise, they are rejected.
+## Problem 8
+Write a program to ask the user to enter: • Mark
+  Then Print the “PASS” if mark >=50, otherwise print “Fail”
